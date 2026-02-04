@@ -329,7 +329,7 @@ const App: React.FC = () => {
       <footer className="bg-white/5 backdrop-blur-lg border border-white/10 py-7 mt-12">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <p className="text-slate-200 text-sm flex items-center justify-center space-x-2">
-            <span>Powered by Gemini 3 Flash and Advanced ML Pipelines</span>
+            <span>Engineered with precision. Secured by design. Powered by intelligent systems</span>
             <span className="w-1 h-1 bg-slate-200 rounded-full" />
             <a href="#" className="flex items-center hover:text-indigo-600 transition-colors">
               API Documentation <ExternalLink className="w-3 h-3 ml-1" />
