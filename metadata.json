@@ -1,0 +1,5 @@
+{
+  "name": "SpamGuardian AI",
+  "description": "A production-grade spam email classifier featuring a robust ML pipeline simulation, explainable AI results, and professional performance metrics.",
+  "requestFramePermissions": []
+}
